@@ -1,7 +1,7 @@
 project:
   machine_name: occam-web
   prefix: BLT
-  human_name: 'BLTed 10'
+  human_name: 'OCCAM'
   profile:
     name: lightning
   local:
